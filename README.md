@@ -35,11 +35,13 @@ Não faz parte deste projeto a implementação do software. O foco desta entrega
 ├── video-url.txt
 ├── product-backlog.pdf
 └── wireframes/
-    ├── login.png
-    ├── dashboard.png
-    ├── cadastro-individuo.png
-    ├── prontuario.png
-    ├── historico-atendimentos.png
+    ├── 1. Tela de cadastro do usuário do sistema.png
+    ├── 2. Tela de login para o usuário do sistema.png
+    ├── 3. Tela de pesquisa de indivíduos e famílias.png
+    ├── 4. Tela de cadastro de indivíduos.png
+    ├── 5. Tela do prontuário do indivíduo e sua família.png
+    ├── 6. Tela de histórico de atendimentos do indivíduo.png
+    └── 7. Tela de registro de atendimento para indivíduo.png
 ```
 
 ### Arquivos
@@ -49,8 +51,7 @@ Não faz parte deste projeto a implementação do software. O foco desta entrega
 | **README.md** | Apresentação do projeto e organização do repositório. |
 | **canvas-url.txt** | URL pública do board da Lean Inception desenvolvida no Miro, contendo todas as etapas da ideação e o MVP Canvas. |
 | **video-url.txt** | URL do vídeo de apresentação do MVP. |
-| **product-backlog.pdf** | Backlog do Produto elaborado no Jira, contendo épicos, histórias de usuário, story points, critérios de aceitação, Definition of Ready e Definition of Done. |
-| **sprint-backlog.pdf** | Backlog das três primeiras Sprints contendo as histórias selecionadas para desenvolvimento do MVP. |
+| **product-backlog.pdf** | Backlog do Produto e das três primeiras Sprints, elaborado no Jira, contendo épicos, histórias de usuário, estimativas em Story Points, critérios de aceitação, Definition of Ready (DoR) e Definition of Done (DoD). |
 | **wireframes/** | Protótipos desenvolvidos para as funcionalidades previstas para a entrega do MVP. |
 
 ---
